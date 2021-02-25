@@ -3,5 +3,5 @@
 
 base  =int(input("Enter base:"))
 height  =int(input("Enter height:"))
-area = 1/2*base*height
+area = (base*height)//2
 print(f"The area of right angled triangle is{area}")
