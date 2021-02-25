@@ -4,4 +4,4 @@
 base  =int(input("Enter base:"))
 height  =int(input("Enter height:"))
 area = (base*height)//2
-print(f"The area of right angled triangle is{area}")
+print(f"The area of right angled triangle is{area} ")
