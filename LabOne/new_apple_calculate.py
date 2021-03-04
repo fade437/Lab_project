@@ -10,3 +10,5 @@ apples_get = K//N
 remaining_apples = K%N
 print(f"Each student got {apples_get}")
 print(f"The remaining apples are {remaining_apples}")
+
+
